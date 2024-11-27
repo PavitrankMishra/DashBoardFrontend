@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+/* html,body {
+    background: linear-gradient(to right, #cf5c2f, #fa538d, #89379d); 
+    background:#e5c0ff;
+    background-image:url("../src/Images/Image2.jpg");
+    background-size: cover; 
+    background-position: center;
+ z-index:1;
+  } */
